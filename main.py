@@ -6,6 +6,7 @@ from stats import sort_char_count
 
 def main():
     #file_path = "books/frankenstein.txt"
+    # Test adding commit with Subject and Body"
     arg_length = len(sys.argv)
 
     try: 
